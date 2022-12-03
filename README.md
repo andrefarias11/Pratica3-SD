@@ -45,9 +45,9 @@ Para instalar a <Pratica3-SD>, siga estas etapas:
 Linux/ macOS/ Windows :
 ```
 git clone https://github.com/andrefarias11/Pratica3-SD.git
-```
-```
 Execulte UserServer.java para iniciar o servidor
+Execulte UserClient  para iniciar um cliente 
+Execulte o painel.form para rodar a interface da aplicação   
 ```
 
 
