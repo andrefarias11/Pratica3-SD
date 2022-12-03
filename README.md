@@ -1,6 +1,6 @@
 # Pratica3-SD
 
-#Introdução 
+### Introdução 
 
 Uma aplicação gRPC que funciona como um CRUD para gerenciamento de imóveis de uma
 imobiliária. Cada imóvel é composto por:
@@ -15,7 +15,7 @@ imobiliária. Cada imóvel é composto por:
 ● Preço
 
 
-### Ajustes e melhorias
+## 🛠️ Ajustes e melhorias
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Tudo é armazenado em memória
@@ -34,5 +34,21 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
+* Você instalou a versão mais recente de `<Java / Jdk / Vscode>`
+* Sistema compativel com `<Windows / Linux / Mac>`. 
+
+
+## 🚀 Instalando <Pratica3-SD>
+
+Para instalar a <Pratica3-SD>, siga estas etapas:
+
+Linux/ macOS/ Windows :
+```
+git clone https://github.com/andrefarias11/Pratica3-SD.git
+```
+```
+Execulte UserServer.java para iniciar o servidor
+```
+
+
+
