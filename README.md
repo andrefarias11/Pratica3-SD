@@ -5,14 +5,14 @@
 Uma aplicação gRPC que funciona como um CRUD para gerenciamento de imóveis de uma
 imobiliária. Cada imóvel é composto por:
 
-● Título
-● Endereço
-● Tipo (casa/apto)
-● Número de quartos
-● Número de garagens
-● Área construída
-● Área do terreno
-● Preço
+● Título <br/>
+● Endereço <br/>
+● Tipo (casa/apto) <br/>
+● Número de quartos <br/>
+● Número de garagens <br/>
+● Área construída <br/>
+● Área do terreno <br/>
+● Preço <br/>
 
 
 ## 🛠️ Ajustes e melhorias
