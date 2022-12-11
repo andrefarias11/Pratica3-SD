@@ -24,10 +24,10 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
     - [x] FIND BY ID
     - [x] FIND ALL
     - [x] DELETE BY ID
-- [ ] Crie o método FIND BY TÍTULO (encontrar exatamente igual ao título)
-- [ ] Crie o método FIND BY ENDEREÇO (encontrar baseado em parte do endereço)
-- [ ] Crie o método FIND BY PRECO (encontrar imóveis entre um intervalo de preços)
-- [ ] Crie o método UPDATE
+- [X] Crie o método FIND BY TÍTULO (encontrar exatamente igual ao título)
+- [X] Crie o método FIND BY ENDEREÇO (encontrar baseado em parte do endereço)
+- [X] Crie o método FIND BY PRECO (encontrar imóveis entre um intervalo de preços)
+- [X] Crie o método UPDATE
 - [X] Interface gráfica 
 
 ## 💻 Pré-requisitos
